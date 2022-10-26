@@ -1,4 +1,4 @@
-<h3>Sales-Analsis</h3>
+<h3>Sales-Analysis</h3>
 We analyze and respond to business inquiries concerning sales data from the last 12 months using <b>Python Pandas and Python Matplotlib</b>. Numerous tens of thousands of electronics store purchases are included in the data, which is split down by month, product kind, price, purchase location, etc.
 
 First, we clean up the information. Among the tasks in this area are: 
